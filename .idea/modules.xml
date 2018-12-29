@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/layer1-api/layer1-api.iml" filepath="$PROJECT_DIR$/layer1-api/layer1-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layer1-provider/layer1-provider.iml" filepath="$PROJECT_DIR$/layer1-provider/layer1-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layer1-soa.iml" filepath="$PROJECT_DIR$/layer1-soa.iml" />
+    </modules>
+  </component>
+</project>
